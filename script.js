@@ -38,9 +38,7 @@
         );
     });
  }
-
- console.log(Apilink);
-
+ 
  form.addEventListener("submit" , (e)=>{
     e.preventDefault();
     main.innerHTML= ''
